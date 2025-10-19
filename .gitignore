@@ -1,6 +1,11 @@
+# Node
 node_modules/
 dist/
-build/
-.env
+
+# System / editor
+.DS_Store
+.cache/
+.local/
+.vscode/
 *.log
 
